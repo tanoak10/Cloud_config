@@ -6,7 +6,7 @@ spring:
       server:
         git:
           uri: https://github.com/tanoak10/cloud-config.git
-          username: tanoak10
-          password: ks970528
+          username: 填写账户
+          password: 填写密码
 server:
   port: 1201
